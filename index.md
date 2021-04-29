@@ -22,3 +22,24 @@
 [组合图表](https://lyin777.github.io/%E7%BB%84%E5%90%88%E5%9B%BE%E8%A1%A8.html)
 
 可惜，杰哥又自取其辱了。
+
+
+# 计算机科学与编程入门课程第三次作业
+## 2010301316 李于斌
+## 作业一
+对红楼梦中出现次数大于140的人物之间的共现次数进行了分析，为了使效果更简洁，只在共现次数超过100次的两人物之间呈现了线条。
+
+[关系-红楼梦人物](https://lyin777.github.io/%E5%85%B3%E7%B3%BB%E5%9B%BE-%E7%BA%A2%E6%A5%BC%E6%A2%A6%E4%BA%BA%E7%89%A9.html)
+
+[关系图-辈分分类-红楼梦](https://lyin777.github.io/%E5%85%B3%E7%B3%BB%E5%9B%BE-%E8%BE%88%E5%88%86%E5%88%86%E7%B1%BB-%E7%BA%A2%E6%A5%BC%E6%A2%A6.html)
+
+[关系图-性别分类-红楼梦](https://lyin777.github.io/%E5%85%B3%E7%B3%BB%E5%9B%BE-%E6%80%A7%E5%88%AB%E5%88%86%E7%B1%BB-%E7%BA%A2%E6%A5%BC%E6%A2%A6.html)
+
+## 作业二
+一个神奇的平台，支持使用百度、360、搜狗、京东四种搜索引擎进行搜索！
+
+[搜索引擎](https://lyin777.github.io/sousuoyinqing.html)
+## 作业三
+《英雄联盟》是一款风靡全球的端游，我在网站中对这个游戏进行了简略的介绍。
+
+[个人网站主页](https://lyin777.github.io/lolgamejianjie.html)
